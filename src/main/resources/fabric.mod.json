@@ -1,17 +1,17 @@
 {
 	"schemaVersion": 1,
-	"id": "turingcomplete",
+	"id": "circuitexp",
 	"version": "${version}",
-	"name": "TuringComplete",
+	"name": "Circuitry Expanded",
 	"description": "Logic Gates in Minecraft!",
 	"authors": [
-		"DutchTristan"
+		"Flywheel",
+		"Orginal mod: DutchTristan"
 	],
 	"contact": {
-		"homepage": "https://dutchtristan.notion.site/1012fafe7a8b8069bff6f6302be56027?v=91bce163e32843df8294d1b40f396841&pvs=74",
-		"sources": "https://github.com/DutchTristan/Turing-Complete-Mod"
+		"sources": "https://github.com/przyg/Circuitry-Expanded-Mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/turingcomplete/icon.png",
 	"environment": "*",
 	"entrypoints": {
